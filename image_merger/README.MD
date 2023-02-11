@@ -1,5 +1,12 @@
 # Image Merger
 
+### Installing
+```
+git clone https://github.com/joojn1122/python-scripts
+cd python-scripts/image_merger
+pip install -r requirements.txt
+```
+
  For more info
  
 `python3 merger.py --help`
